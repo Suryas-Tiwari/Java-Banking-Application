@@ -1,0 +1,41 @@
+
+#### User Manual
+```markdown
+# Simple Banking Application - User Manual
+
+## Introduction
+This manual provides instructions on how to use the Simple Banking Application. The application allows you to check your balance, deposit money, withdraw money, and exit the application.
+
+## Instructions
+
+1. **Launch the Application**:
+   - Run the `SimpleBankingApplication` class file.
+
+2. **Main Menu**:
+   - You will see the main menu with the following options:
+     1. Check Balance
+     2. Deposit
+     3. Withdraw
+     4. Exit
+
+3. **Check Balance**:
+   - Select option `1` to check your current balance. The application will display your current balance.
+
+4. **Deposit Money**:
+   - Select option `2` to deposit money into your account.
+   - Enter the amount you want to deposit.
+   - The application will update your balance and display the deposited amount.
+
+5. **Withdraw Money**:
+   - Select option `3` to withdraw money from your account.
+   - Enter the amount you want to withdraw.
+   - The application will update your balance and display the withdrawn amount. If the amount exceeds your current balance, the application will notify you of insufficient funds.
+
+6. **Exit**:
+   - Select option `4` to exit the application.
+
+## Tips
+- Ensure to enter positive amounts for deposit and withdrawal operations.
+- You cannot withdraw more than your current balance.
+
+Thank you for using the Simple Banking Application!
